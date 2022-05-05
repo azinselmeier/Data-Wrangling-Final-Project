@@ -4,7 +4,6 @@ In this project, my group completed an analysis on state incarceration rates and
 - General Information
 - Technology Used
 - Features
-- Screenshots
 - Setup
 - Project Status
 - Room for Improvement
